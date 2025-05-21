@@ -26,3 +26,5 @@ stocks.to_json('sp500_stocks.json', orient='records', lines=True)
 
 # Print confirmation
 print("Data saved to 'sp500_stocks.csv' and 'sp500_stocks.json'.")
+
+print(stocks.head(10))

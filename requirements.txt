@@ -1,0 +1,8 @@
+yfinance
+pandas
+numpy
+matplotlib
+yahoo_fin
+scipy
+requests
+beautifulsoup4
